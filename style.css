@@ -38,6 +38,10 @@ ul{
   
 }
 
+iframe{
+  border: none;
+}
+
 
 li{
   display: inline;
