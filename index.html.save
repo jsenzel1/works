@@ -44,25 +44,6 @@
   <!-- <h2>|</h2>
   <h2>v</h2> -->
 
-  <a id="qam" href="http://qam.works.rip/">
-    <h2>Question Answering Machine, 2021</h2>
-  </a>
-  <h3>A playful public installation about sharing secrets with strangers in public space, permanently installed outside
-    Victoria
-    Square Project Gallery in Athens, Greece
-  </h3>
-
-  <li>
-    <img src="./pics/q1.jpg" width=50% height=50%>
-    <img src="./pics/q2.jpg" width=50% height=50%>
-    <!-- <img src="./pics/q3.png" width=60% height=60%> -->
-
-  </li>
-  <br>
-  <br>
-  <hr>
-
-
   <h2 id="pausa">Pausa, 2019</h2>
   <h3>An interactive audiovisual piece based around the real time construction of a musical piece by the participant
   </h3>
@@ -118,8 +99,7 @@
   <h2 id="walks">2 urban walks, 2019</h2>
   <li style="padding: 10px 40px;">
     <a href="http://walk.works.rip/" style="font-size: 1.6em"> walk 1</a>
-    <a href="http://turn.works.rip/" style="font-size: 1.6em"> walk 2</a>
-  </li>
+    <a href="http://turn.works.rip/" style="font-size: 1.6em"> walk 2</a></li>
   <h3> interactive guided urban walks based on Guy Debord's theory of dérive</h3>
   <img src="./pics/walk1.png" width=50% height=50%>
   <img src="./pics/walk2.png" width=50% height=50%>
